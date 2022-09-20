@@ -7,4 +7,4 @@ The MIT License
 lalalala
 what
 
-staging
+working tree
